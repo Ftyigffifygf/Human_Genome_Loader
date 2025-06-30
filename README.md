@@ -33,9 +33,6 @@ It will:
 - Chromosome GC content bar plot
 - Total genome length printed
 
-## 📬 Note
-
-Set your email in `Entrez.email = "your_email@example.com"` so NCBI knows who is accessing.
 
 ---
 
