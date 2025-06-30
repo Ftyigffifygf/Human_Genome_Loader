@@ -22,7 +22,7 @@ python main.py
 ```
 
 It will:
-1. Download all 24 human chromosomes (from NCBI).
+1. Download all 23 pairs human chromosomes (from NCBI).
 2. Save them as FASTA files.
 3. Load them into memory.
 4. Print total genome size.
