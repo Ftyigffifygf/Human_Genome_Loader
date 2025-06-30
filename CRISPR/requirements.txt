@@ -1,0 +1,5 @@
+biopython
+pysam
+h5py
+numpy
+regex
