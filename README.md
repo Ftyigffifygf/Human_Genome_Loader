@@ -154,9 +154,6 @@ COMING SOON — citation details to be added
 
 ---
 
-## Acknowledgements
-
-Inspired by [GenomeLoader by daquang](https://github.com/daquang/GenomeLoader).
 
 ---
 
