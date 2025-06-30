@@ -36,4 +36,4 @@ It will:
 
 ---
 
-Inspired by OpenAI | Powered by Biopython 🧪
+ 🧪
